@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(426,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(447,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(469,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(491,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(748,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(752,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(756,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(760,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Mike the mouse.vcxproj -> C:\Users\sunny\source\repos\Mike the mouse\Debug\Mike the mouse.exe

@@ -1,0 +1,23 @@
+﻿  Enemy.cpp
+  Enemy2.cpp
+  Enemy3.cpp
+  Enemy4.cpp
+  Game.cpp
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(426,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(447,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(469,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(491,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(748,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(752,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(756,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sunny\source\repos\Mike the mouse\Game.cpp(760,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Item.cpp
+  main.cpp
+  Player.cpp
+  Score.cpp
+  ScoreList.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 939 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Mike the mouse.vcxproj -> C:\Users\sunny\source\repos\Mike the mouse\Release\Mike the mouse.exe
